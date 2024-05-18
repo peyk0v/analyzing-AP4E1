@@ -1,0 +1,439 @@
+LOCUS       NM_007347               6743 bp    mRNA    linear   PRI 04-APR-2024
+DEFINITION  Homo sapiens adaptor related protein complex 4 subunit epsilon 1
+            (AP4E1), transcript variant 1, mRNA.
+ACCESSION   NM_007347
+VERSION     NM_007347.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6743)
+  AUTHORS   Caracci,M.O., Pizarro,H., Alarcon-Godoy,C., Fuentealba,L.M.,
+            Farfan,P., De Pace,R., Santibanez,N., Cavieres,V.A., Pastor,T.P.,
+            Bonifacino,J.S., Mardones,G.A. and Marzolo,M.P.
+  TITLE     The Reelin receptor ApoER2 is a cargo for the adaptor protein
+            complex AP-4: Implications for Hereditary Spastic Paraplegia
+  JOURNAL   Prog Neurobiol 234, 102575 (2024)
+   PUBMED   38281682
+  REMARK    GeneRIF: The Reelin receptor ApoER2 is a cargo for the adaptor
+            protein complex AP-4: Implications for Hereditary Spastic
+            Paraplegia.
+REFERENCE   2  (bases 1 to 6743)
+  AUTHORS   Beheshtian,M., Akhtarkhavari,T., Mehvari,S., Mohseni,M.,
+            Fattahi,Z., Abedini,S.S., Arzhangi,S., Fadaee,M., Jamali,P.,
+            Najafipour,R., Kalscheuer,V.M., Hu,H., Ropers,H.H., Najmabadi,H.
+            and Kahrizi,K.
+  TITLE     Comprehensive genotype-phenotype correlation in AP-4 deficiency
+            syndrome; Adding data from a large cohort of Iranian patients
+  JOURNAL   Clin Genet 99 (1), 187-192 (2021)
+   PUBMED   32895917
+  REMARK    GeneRIF: Comprehensive genotype-phenotype correlation in AP-4
+            deficiency syndrome; Adding data from a large cohort of Iranian
+            patients.
+REFERENCE   3  (bases 1 to 6743)
+  AUTHORS   Ebrahimi-Fakhari,D., Teinert,J., Behne,R., Wimmer,M., D'Amore,A.,
+            Eberhardt,K., Brechmann,B., Ziegler,M., Jensen,D.M.,
+            Nagabhyrava,P., Geisel,G., Carmody,E., Shamshad,U., Dies,K.A.,
+            Yuskaitis,C.J., Salussolia,C.L., Ebrahimi-Fakhari,D., Pearson,T.S.,
+            Saffari,A., Ziegler,A., Kolker,S., Volkmann,J., Wiesener,A.,
+            Bearden,D.R., Lakhani,S., Segal,D., Udwadia-Hegde,A.,
+            Martinuzzi,A., Hirst,J., Perlman,S., Takiyama,Y., Xiromerisiou,G.,
+            Vill,K., Walker,W.O., Shukla,A., Dubey Gupta,R., Dahl,N., Aksoy,A.,
+            Verhelst,H., Delgado,M.R., Kremlikova Pourova,R., Sadek,A.A.,
+            Elkhateeb,N.M., Blumkin,L., Brea-Fernandez,A.J., Dacruz-Alvarez,D.,
+            Smol,T., Ghoumid,J., Miguel,D., Heine,C., Schlump,J.U., Langen,H.,
+            Baets,J., Bulk,S., Darvish,H., Bakhtiari,S., Kruer,M.C.,
+            Lim-Melia,E., Aydinli,N., Alanay,Y., El-Rashidy,O., Nampoothiri,S.,
+            Patel,C., Beetz,C., Bauer,P., Yoon,G., Guillot,M., Miller,S.P.,
+            Bourinaris,T., Houlden,H., Robelin,L., Anheim,M., Alamri,A.S.,
+            Mahmoud,A.A.H., Inaloo,S., Habibzadeh,P., Faghihi,M.A.,
+            Jansen,A.C., Brock,S., Roubertie,A., Darras,B.T., Agrawal,P.B.,
+            Santorelli,F.M., Gleeson,J., Zaki,M.S., Sheikh,S.I., Bennett,J.T.
+            and Sahin,M.
+  TITLE     Defining the clinical, molecular and imaging spectrum of adaptor
+            protein complex 4-associated hereditary spastic paraplegia
+  JOURNAL   Brain 143 (10), 2929-2944 (2020)
+   PUBMED   32979048
+  REMARK    GeneRIF: Defining the clinical, molecular and imaging spectrum of
+            adaptor protein complex 4-associated hereditary spastic paraplegia.
+            Erratum:[Brain. 2021 Apr 12;144(3):e33. PMID: 33294911]
+REFERENCE   4  (bases 1 to 6743)
+  AUTHORS   Moreno-De-Luca,A., Helmers,S.L., Mao,H., Burns,T.G., Melton,A.M.,
+            Schmidt,K.R., Fernhoff,P.M., Ledbetter,D.H. and Martin,C.L.
+  TITLE     Adaptor protein complex-4 (AP-4) deficiency causes a novel
+            autosomal recessive cerebral palsy syndrome with microcephaly and
+            intellectual disability
+  JOURNAL   J Med Genet 48 (2), 141-144 (2011)
+   PUBMED   20972249
+  REMARK    GeneRIF: An autosomal recessive form of spastic tetraplegic
+            cerebral palsy with profound intellectual disability, microcephaly,
+            epilepsy and white matter loss in a consanguineous family resulting
+            from a homozygous deletion involving AP4E1.
+REFERENCE   5  (bases 1 to 6743)
+  AUTHORS   Boehm,M., Aguilar,R.C. and Bonifacino,J.S.
+  TITLE     Functional and physical interactions of the adaptor protein complex
+            AP-4 with ADP-ribosylation factors (ARFs)
+  JOURNAL   EMBO J 20 (22), 6265-6276 (2001)
+   PUBMED   11707398
+REFERENCE   6  (bases 1 to 6743)
+  AUTHORS   Takatsu,H., Futatsumori,M., Yoshino,K., Yoshida,Y., Shin,H.W. and
+            Nakayama,K.
+  TITLE     Similar subunit interactions contribute to assembly of clathrin
+            adaptor complexes and COPI complex: analysis using yeast
+            three-hybrid system
+  JOURNAL   Biochem Biophys Res Commun 284 (4), 1083-1089 (2001)
+   PUBMED   11409905
+REFERENCE   7  (bases 1 to 6743)
+  AUTHORS   Hirst,J., Bright,N.A., Rous,B. and Robinson,M.S.
+  TITLE     Characterization of a fourth adaptor-related protein complex
+  JOURNAL   Mol Biol Cell 10 (8), 2787-2802 (1999)
+   PUBMED   10436028
+REFERENCE   8  (bases 1 to 6743)
+  AUTHORS   Dell'Angelica,E.C., Mullins,C. and Bonifacino,J.S.
+  TITLE     AP-4, a novel protein complex related to clathrin adaptors
+  JOURNAL   J Biol Chem 274 (11), 7278-7285 (1999)
+   PUBMED   10066790
+REFERENCE   9  (bases 1 to 6743)
+  AUTHORS   Ebrahimi-Fakhari,D., Behne,R., Davies,A.K. and Hirst,J.
+  TITLE     AP-4-Associated Hereditary Spastic Paraplegia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   30543385
+REFERENCE   10 (bases 1 to 6743)
+  AUTHORS   Hedera,P.
+  TITLE     Hereditary Spastic Paraplegia Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301682
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC130466.1, AK308644.1,
+            CR749604.1, CR627314.1 and AI143020.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_007347.4.
+            
+            Summary: This gene encodes a member of the adaptor complexes large
+            subunit protein family. These proteins are components of the
+            heterotetrameric adaptor protein complexes, which play important
+            roles in the secretory and endocytic pathways by mediating vesicle
+            formation and sorting of integral membrane proteins. The encoded
+            protein is a large subunit of adaptor protein complex-4, which is
+            associated with both clathrin- and nonclathrin-coated vesicles.
+            Disruption of this gene may be associated with cerebral palsy.
+            Alternatively spliced transcript variants encoding multiple
+            isoforms have been observed for this gene. [provided by RefSeq, Nov
+            2011].
+            
+            Transcript Variant: This variant (1) represents the shorter
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803613.18933.1,
+                                           SRR1660803.65652.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000261842.10/ ENSP00000261842.5
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-3645              BC130466.1         11-3655
+            3646-4276           AK308644.1         590-1220
+            4277-5057           CR749604.1         4188-4968
+            5058-6356           CR627314.1         487-1785
+            6357-6743           AI143020.1         15-401              c
+FEATURES             Location/Qualifiers
+     source          1..6743
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="15"
+                     /map="15q21.2"
+     gene            1..6743
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="adaptor related protein complex 4 subunit epsilon
+                     1"
+                     /db_xref="GeneID:23431"
+                     /db_xref="HGNC:HGNC:573"
+                     /db_xref="MIM:607244"
+     exon            1..246
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    40..42
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="upstream in-frame stop codon"
+     CDS             97..3510
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     adaptor-related protein complex AP-4 epsilon;
+                     epsilon-adaptin; AP-4 adaptor complex subunit epsilon;
+                     adaptor related protein complex 4 epsilon 1 subunit"
+                     /codon_start=1
+                     /product="AP-4 complex subunit epsilon-1 isoform 1"
+                     /protein_id="NP_031373.2"
+                     /db_xref="CCDS:CCDS32240.1"
+                     /db_xref="GeneID:23431"
+                     /db_xref="HGNC:HGNC:573"
+                     /db_xref="MIM:607244"
+                     /translation="MSDIVEKTLTALPGLFLQNQPGGGPAAAKASFSSRLGSLVRGIT
+                     ALTSKHEEEKLIQQELSSLKATVSAPTTTLKMMKECMVRLIYCEMLGYDASFGYIHAI
+                     KLAQQGNLLEKRVGYLAVSLFLHESHELLLLLVNTVVKDLQSTNLVEVCMALTVVSQI
+                     FPCEMIPAVLPLIEDKLQHSKEIVRRKAVLALYKFHLIAPNQVQHIHIKFRKALCDRD
+                     VGVMAASLHIYLRMIKENSSGYKDLTGSFVTILKQVVGGKLPVEFNYHSVPAPWLQIQ
+                     LLRILGLLGKDDQRTSELMYDVLDESLRRAELNHNVTYAILFECVHTVYSIYPKSELL
+                     EKAAKCIGKFVLSPKINLKYLGLKALTYVIQQDPTLALQHQMTIIECLDHPDPIIKRE
+                     TLELLYRITNAQNITVIVQKMLEYLHQSKEEYVIVNLVGKIAELAEKYAPDNAWFIQT
+                     MNAVFSVGGDVMHPDIPNNFLRLLAEGFDDETEDQQLRLYAVQSYLTLLDMENVFYPQ
+                     RFLQVMSWVLGEYSYLLDKETPEEVIAKLYKLLMNDSVSSETKAWLIAAVTKLTSQAH
+                     SSNTVERLIHEFTISLDTCMRQHAFELKHLHENVELMKSLLPVDRSCEDLVVDASLSF
+                     LDGFVAEGLSQGAAPYKPPHQRQEEKLSQEKVLNFEPYGLSFSSSGFTGRQSPAGISL
+                     GSDVSGNSAETGLKETNSLKLEGIKKLWGKEGYLPKKESKTGDESGALPVPQESIMEN
+                     VDQAITKKDQSQVLTQSKEEKEKQLLASSLFVGLGSESTINLLGKADTVSHKFRRKSK
+                     VKEAKSGETTSTHNMTCSSFSSLSNVAYEDDYYSNTLHDTGDKELKKFSLTSELLDSE
+                     SLTELPLVEKFSYCSLSTPSLFANNNMEIFHPPQSTAASVAKESSLASSFLEETTEYI
+                     HSNAMEVCNNETISVSSYKIWKDDCLLMVWSVTNKSGLELKSADLEIFPAENFKVTEQ
+                     PGCCLPVMEAESTKSFQYSVQIEKPFTEGNLTGFISYHMMDTHSAQLEFSVNLSLLDF
+                     IRPLKISSDDFGKLWLSFANDVKQNVKMSESQAALPSALKTLQQKLRLHIIEIIGNEG
+                     LLACQLLPSIPCLLHCRVHADVLALWFRSSCSTLPDYLLYQCQKVMEGS"
+     misc_feature    2194..2196
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q9UPM8.2); phosphorylation site"
+     misc_feature    2275..3507
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UPM8.2);
+                     Region: Interaction with TEPSIN.
+                     /evidence=ECO:0000269|PubMed:26542808"
+     misc_feature    2665..2667
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (Q9UPM8.2); phosphorylation site"
+     exon            247..318
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            319..442
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            443..516
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            517..638
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            639..798
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            799..965
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            966..1039
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1040..1162
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1163..1272
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1273..1412
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1413..1525
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1526..1644
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1645..1947
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1948..2062
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2063..2186
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2187..2442
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2443..3000
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3001..3191
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3192..3349
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3350..6743
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      6722..6727
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="hexamer: AATAAA"
+     polyA_site      6743
+                     /gene="AP4E1"
+                     /gene_synonym="CPSQ4; SPG51; STUT1"
+                     /note="major polyA site"
+ORIGIN      
+        1 agtgcctacg gaggccgggc cggcagcggc ggccgggcat gaagccgggc ggctacggga
+       61 tcgcgggcgg cggcggcatc gcgggcggcg gcggcgatga gcgacatagt ggagaagacg
+      121 ctgacggcgc tgccgggact ctttctgcag aaccagcccg gtggtgggcc cgcggccgcc
+      181 aaggcgtcct tctcctcgag gctgggcagc cttgtccgcg gcatcacagc cctcacctcc
+      241 aagcacgaag aagaaaaatt aatccagcag gaactgagta gtctgaaagc gactgtttct
+      301 gctcctacta caacactgaa aatgatgaag gaatgtatgg tgagacttat atattgtgaa
+      361 atgcttggat atgatgcttc ctttggctat attcatgcaa tcaagttagc ccaacaagga
+      421 aacctcttag aaaaaagagt aggttatttg gctgtttcct tatttctaca tgaaagtcat
+      481 gaattattgc ttctccttgt gaatacagtt gtaaaggatc tgcagagcac taacctagta
+      541 gaagtgtgta tggcactgac tgttgttagc cagattttcc cctgcgaaat gattccagct
+      601 gttcttccat taatagaaga taaacttcaa cattctaagg agattgtacg aagaaaagct
+      661 gttctggcat tatacaaatt ccatctcatt gctcctaatc aagtacaaca tattcatatt
+      721 aagtttcgga aagcactttg tgacagagat gttggggtca tggctgcctc cttgcatata
+      781 tatcttagaa tgattaagga gaattcatct ggatataaag acttgactgg gagttttgta
+      841 accattttga agcaagtagt tggaggaaag ctcccagtag aattcaatta ccacagtgtg
+      901 ccagcaccat ggttacaaat tcagctcttg agaatactgg gacttctagg aaaagatgat
+      961 caaaggacaa gtgaattaat gtatgatgtt cttgatgaat ccttacgaag agctgagtta
+     1021 aatcacaatg tcacatatgc tattttgttt gaatgtgtgc atacagtcta ttctatttat
+     1081 cctaaatcgg aattacttga gaaggctgcc aagtgcattg gaaaatttgt tctgtcacct
+     1141 aaaataaatc taaaatattt aggactgaag gctcttacct atgttatcca acaggatcct
+     1201 actctggctc ttcaacacca gatgacaata attgaatgtt tagatcatcc tgatcccatt
+     1261 attaaaagag agactctgga acttctttac agaattacta atgcacagaa tataacagtt
+     1321 attgtccaga aaatgcttga atatttacat cagagcaaag aagagtatgt catcgtcaat
+     1381 ttggtcggca aaatagcaga gctggctgag aaatatgctc ctgataatgc atggtttatt
+     1441 cagacaatga atgctgtgtt ttcagtagga ggagatgtaa tgcatcctga tattcccaat
+     1501 aactttctga gactactagc ggaaggtttt gatgatgaaa cagaagatca gcaattaaga
+     1561 ctctatgcag ttcagtctta tctcacttta ctggatatgg aaaatgtgtt ctatccacag
+     1621 agatttcttc aagttatgag ttgggtatta ggggaatatt cctacctctt agataaggaa
+     1681 acgccagagg aagttatagc taagctctac aagttactta tgaatgactc tgtgtcttca
+     1741 gaaacaaaag cctggttaat tgctgctgtg accaaattga catctcaggc gcactcttct
+     1801 aatacagttg agagattaat ccatgaattt accatatctt tggatacttg tatgagacaa
+     1861 catgcatttg aattaaaaca tttgcatgag aatgtggaac ttatgaagag cttgcttcca
+     1921 gttgacagga gttgtgaaga cttggtggta gatgcttctt tatcttttct ggatggtttt
+     1981 gtggctgaag gactcagtca gggtgcagcg ccttacaaac ctccccatca acgccaggag
+     2041 gaaaagcttt ctcaggaaaa agttctcaat tttgaaccat atggactctc cttttcttca
+     2101 tctggcttca ctggacgaca gtctcctgct ggcatttctc ttggttcaga tgtatctggg
+     2161 aatagtgctg agacaggact gaaagagaca aatagcttga agctggaagg tataaagaaa
+     2221 ttgtggggga aagaaggcta tcttcccaag aaggaaagca aaactggtga tgaaagtgga
+     2281 gctctgcctg ttcctcaaga gagtataatg gagaatgtag atcaagctat aactaaaaag
+     2341 gatcaatctc aagttcttac ccaatctaaa gaggagaaag aaaagcagct gctggcatca
+     2401 tcattatttg ttggtctagg atcagaaagt acaatcaacc tgctgggaaa agcagatact
+     2461 gtctctcaca agttcagaag gaaatcaaaa gtcaaagaag ctaaaagtgg cgaaacaacc
+     2521 agtactcata atatgacctg ttcttccttt agttctttgt caaatgtggc atatgaagat
+     2581 gattattatt cgaatacttt gcacgataca ggagacaagg aattaaagaa attttctctc
+     2641 acttcagaac ttttggattc tgagtcactc acagaactgc ccttggttga gaaattctca
+     2701 tattgtagtc tgtctacacc ttcattgttt gctaataaca acatggaaat ttttcaccct
+     2761 cctcaatcta ctgcagcctc agttgccaag gaaagctctt tagcttcatc ttttttggaa
+     2821 gaaactactg aatacataca ctcaaatgct atggaagtct gtaataatga aactatatca
+     2881 gtgtcttctt ataaaatttg gaaagatgat tgtttattga tggtctggtc agtcactaat
+     2941 aagagtggtt tggaattgaa aagtgctgac ttagaaattt ttcctgcaga aaatttcaag
+     3001 gtgactgagc aacctggatg ctgtttgcct gtaatggaag cagaaagcac caaaagcttt
+     3061 caatatagtg tgcagataga aaaacctttt acagaaggaa atcttactgg ttttattagt
+     3121 tatcatatga tggatactca ttctgctcag ctggaatttt ctgtaaactt atcactatta
+     3181 gatttcatta gaccattaaa aatctcaagt gacgactttg ggaaactctg gttatccttc
+     3241 gcaaatgatg tgaaacaaaa tgtaaaaatg tcagaatctc aagctgcact tccttctgca
+     3301 ctaaagactc tgcaacagaa actaagactc catattattg agattatagg caatgaaggg
+     3361 ctattggcct gtcagctgct cccatccatc ccctgcttac tgcattgccg agttcatgca
+     3421 gatgtattag ccctgtggtt cagatcctcc tgttctactc ttcctgacta tttactgtat
+     3481 cagtgtcaaa aggtgatgga gggatcctag cagaagccct gctaaatttt actccatcaa
+     3541 gatcaatggt ttacatagat aaacttattt accaaagtaa aaagaactca tggtacttct
+     3601 aatgaaaatg gggattatta caagtgtggt ttatatgttt tctttgtgat tcctggtcaa
+     3661 gaaagatccc caaaactgta tccctaacct ttaactcagg attgtacagt atgtttaggt
+     3721 ccctcaaaaa gtgacctaag ctaatgttat aaactgctaa tgatttatat atcacttagt
+     3781 gtgtagaggg actgaaaata tttattttgt tataaataat tttatagcac gtttactcta
+     3841 gtgctagcta atttgtaata aagccaagtc tcagttttct gcattaaatg gaagggagac
+     3901 atgaaattga taatctcaaa cttaattcat atttggcttt ggaatgtagt gtatggtttt
+     3961 tggtagggaa gtcaatattt tcgattatgt tttgcttaga tcagtgttga actaagttgg
+     4021 catagcacac actaacagtt gtaggagatc catgagcatg ctggatattg aggggatcca
+     4081 atctgtgatc tattttttat tatagataac tgttacacat aatttcagat cgtttggctg
+     4141 taaaatttgt ctgttttcca cttggagtta ttttaaaatt caaagtaaat cactctattc
+     4201 ttattttgaa aactcagagc cattttatat agaaacaaaa cccataagag cacacagtaa
+     4261 caaagcaaac agatacaaaa atgacttttt agttatgaca aatattttag ttggttacta
+     4321 cttaggtcct tttggcaaat gaaaatttgt gattagagta taaatggcaa aactatcttt
+     4381 tcctggcctt tgaatccact agtacttaat ggatatagct gaagcagaga ctaagtataa
+     4441 catacaggtt cttcagtaaa atatatcatt ttcatgttat agttatgcct gtgtggcctc
+     4501 tgtcagaact attatcagta aaagaggtta agcctatata tgaatgatgg accaaaacct
+     4561 tgaggttgta cattaactga aatagtattt tataaaatct tatggtgctg tggaaaatat
+     4621 ttattatttc accttttctg acacttcacc atggagacta ttcaggtaat acaattttaa
+     4681 gtcattgcag ttaatactct ggttaattgg tactgttaat cacccaggtc aggaattctg
+     4741 attttaggtt atctcattaa tcatggctga taaagaagct aaggggattc tccagatcta
+     4801 atagatttca ttagtcattt gtgtcgagta ttcctcccta aaaacaaaag cagtattttc
+     4861 tttctcaatt aatttttaag ttattcatta aaaaatatat aacatcttaa ttttattctt
+     4921 ttaaaaacat acagtgaagc cttgctacaa gagtcataag tgactggaat ttcttgcata
+     4981 ataggttcct ccttttgaat agatcagatt catccccagg ctctcagcag tgtcatgatg
+     5041 aaatgagtgt gctgacttca ggggtgtggt ggacactggt agctagcctt atcagctccc
+     5101 tccttattcc tacctctgtc agcagcatgc ctcgcccctt acctaattct gctgtgactc
+     5161 tgacagagag gaagtgcctt ctcactttgc aaaggaatgc agcatgtcac aaaggaggtg
+     5221 ctccaatttt ttgtgtcctt acttccctat gtttgcctag ttactgaggc taggtcgagt
+     5281 gtgaagcaat aggtgtaaga tgctgagagc acatggacag ctaccaggga gatctgttgc
+     5341 ttggttacag ggtgtattca tgagtggtag ctgcagttgt cgtgagagac atgcttggca
+     5401 tacagagctg tctaatgggt gggagacatg taatggtaga tttagggctg ggagcatgat
+     5461 tttgggtctg cccaaaggaa catggtgtca cttttgttct ttctgaccca ctaaataaaa
+     5521 agtagtgtaa cagggtttca ctggaatgtt tattagaaag tttacacttt ttatattttt
+     5581 atgattttaa aaacaaacaa taatagaaaa acagatttta aggaacttca gagcagtata
+     5641 tattctgtct aaactcactg aatattttaa gttgtaaatc aggtgtccac caacctttat
+     5701 ttttgcattg caggagatgt gactgtaaag tagggagttt ttttttttga gacagagttt
+     5761 cacccttgtt gcccaggcta gagtgtaatg gtgcaatctc cgctcactgc aacctctgcc
+     5821 tcccaggttc aagcgattct cctgcctcag cctccctagt agctgggatt acaggcatgc
+     5881 accaccacac ccggctaatt tttttatatt tttagtagag acaaggtttc tccatgttgg
+     5941 tcaggctggt ctcgaactcc cgacctcagg tgatctgccc gcctcagcct cccaaagtgc
+     6001 tgggattaca ggcgtgagcc actgcgcccg gccaaattat ttttgtgggt agattcattc
+     6061 tctttaccta atagtcataa tttagtcagt gaagggacaa catctggggt aagagctatg
+     6121 gaggaggtgc tcagctttgt gagttttgtg ccaggcatct ttgctgaaaa tggagatggc
+     6181 agcaagtgtg aatctggggg aatataaggg aagacagaaa agccttaaga gtagacggag
+     6241 gaagaagggt accagaatag tccctgtgga ggcaggcaga tcagagctca gggtttgaaa
+     6301 gtgggcctga gtaagggtcc tgctagagaa actgcagatg gaagctgagc agttaccaac
+     6361 tgctaatgtg ccaagtatac caagcacagc atgtgtcctg tagaggagca ttattttaaa
+     6421 caatgttcta ctatcatcta ccaaaataat tgtggtaaaa gtgtagtatt ttattttttc
+     6481 cttttatgtc agcaatattt taaaatattg atctgtttat cttatatttt tatggataaa
+     6541 tgtagtattt gcctcatgat tgtgagccac tgagagtgca ctgaacctat tcacatgtct
+     6601 ttaagatgtt ttgctgtgtt aaaattttag gagagaaaaa tacaagtgaa taattattta
+     6661 ataggcattt attactttat tttggagttg aattctgtca tttgaaaaag ttcagtaatg
+     6721 taataaatac aaagtgatct gca
+//
+
