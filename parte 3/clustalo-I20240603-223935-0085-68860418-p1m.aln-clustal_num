@@ -1,0 +1,242 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|P91926.1|AP2A_DROME       --------------------------------------------------------MAPV	4
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	0
+NM_007347                    SAYGGRAGSGGRA*SRAATGSRAAAASRAAAAMSDIVEKTLTALPGLFLQNQPGGGPAAA	59
+sp|Q80V94.3|AP4E1_MOUSE      --------------------------------MSDMVERTLTALPGLFLQNQLG-GPAAS	27
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       RGDGMRGLAVFISDIRNCKSKEAEVKRINKELANIRSKFKGDKTLDGYQKKKYVCKLLFI	64
+sp|Q5R5M2.1|AP1G1_PONAB      -MPAPIRLRELIRTIRTARTQAEEREMIQKECAAIRSSFREEDNTYR---CRNVAKLLYM	56
+NM_007347                    KASFSSRLGSLVRGITALTSKHEEEKLIQQELSSLKATVSAPTTTLK-MMKECMVRLIYC	118
+sp|Q80V94.3|AP4E1_MOUSE      RAPFFSRLGGLIRGVTALSSKHEEEKLIQQELSSLKATVSAPTTTLK-TMKECMVRLIYC	86
+                                    *  ::  :    ::  * : *::* : :::..    .       . : :*:: 
+
+sp|P91926.1|AP2A_DROME       FLLGHDIDFGHMEAVNLLSSNKYSEKQIGYLFISVLVNTNSDLIRLIIQSIKNDLQSRNP	124
+sp|Q5R5M2.1|AP1G1_PONAB      HMLGYPAHFGQLECLKLIASQKFTDKRIGYLGAMLLLDERQDVHLLMTNCIKNDLNHSTQ	116
+NM_007347                    EMLGYDASFGYIHAIKLAQQGNLLEKRVGYLAVSLFLHESHELLLLLVNTVVKDLQSTNL	178
+sp|Q80V94.3|AP4E1_MOUSE      EMLGYDASFGYIHAIKLAQQGNLLEKRVGYLAVSLFLHESHELLLLLVNTVVKDLQSTNL	146
+                              :**:   ** :..::*  . :  :*::***   :::.   ::  *: : : :**:  . 
+
+sp|P91926.1|AP2A_DROME       VHVNLALQCIANIGSRDMAESFSNEIPKLLVSGDTMDVVKQSAALCLLRLFRSSPDIIPG	184
+sp|Q5R5M2.1|AP1G1_PONAB      FVQGLALCTLGCMGSSEMCRDLAGEVEKLLKTS--NSYLRKKAALCAVHVIRKVPELMEM	174
+NM_007347                    VEVCMALTVVSQIFPCEMIPAVLPLIEDKLQHS--KEIVRRKAVLALYKFHLIAPNQVQH	236
+sp|Q80V94.3|AP4E1_MOUSE      VEVCMALTVVSQIFPREMIPAVLPLIEDKLQHS--KEIIRRKAVLALYKFYLIAPNQVQH	204
+                             .   :**  :. :   :*   .   : . *  .   . :::.*.*.  :.    *: :  
+
+sp|P91926.1|AP2A_DROME       GEWTSRIIHLLNDQHMGVVTAATSLIDALVKRNPDEYKGC---VNLAVSRLSRIVTASYT	241
+sp|Q5R5M2.1|AP1G1_PONAB      --FLPATKNLLNEKNHGVLHTSVVLLTEMCERSPDMPAHFRKLVPQLVRILKNLIMSGYS	232
+NM_007347                    --IHIKFRKALCDRDVGVMAASLHIYLRMIK---ENSSGYKDLTGSFVTILKQVVGGKLP	291
+sp|Q80V94.3|AP4E1_MOUSE      --IHTKFRKALCDRDVGVMAASLHIYLRMIK---ENASGYKDLTESFVTILKQVVGGKLP	259
+                                     : * ::. **: ::  :   : :   :        .   *  *..:: .   
+
+sp|P91926.1|AP2A_DROME       DLQDYTYYFVPAPWLSVKLLRLLQNYNPVTEEAGVRARLNETLETILNKAQEPPKSKKVQ	301
+sp|Q5R5M2.1|AP1G1_PONAB      --PEHDVSGISDPFLQVRILRLLRILGRNDDDS------SEAMNDILA----QVATNTET	280
+NM_007347                    --VEFNYHSVPAPWLQIQLLRILGLLGKDDQRT------SELMYDVLD----ESLRRAEL	339
+sp|Q80V94.3|AP4E1_MOUSE      --VEFSYHSVPAPWLQIQLLRILGLLGKDDERT------SELMYDVLD----ESLRRAEL	307
+                                :.    :  *:*.:::**:*   .   : :      .* :  :*         .   
+
+sp|P91926.1|AP2A_DROME       HSNAKNAVLFEAINLIIHSDSEPNLLVRACNQLGQFLSNRETNLRYLALESMCHLATSEF	361
+sp|Q5R5M2.1|AP1G1_PONAB      SKNVGNAILYETVLTIMDIKSESGLRVLAINILGRFLLNNDKNIRYVALTSLLKTVRTD-	339
+NM_007347                    NHNVTYAILFECVHTVYSIYPKSELLEKAAKCIGKFVLSPKINLKYLGLKALTYVIQQD-	398
+sp|Q80V94.3|AP4E1_MOUSE      NHNVTYAILFECVHTIYSIYPKSELLEKAAKCIGKFVLSPKINLKYLGLKALTYVIQQD-	366
+                               *.  *:*:* :  :     :  *   * : :*:*: . . *::*:.* ::      : 
+
+sp|P91926.1|AP2A_DROME       SHEEVKKHQEVVILSMKMEKDVSVRQMAVDLLYAMCDRGNAEEIVQEMLNYLETADYSIR	421
+sp|Q5R5M2.1|AP1G1_PONAB      -HNTVQRHRS-TIVDCLKDLDVSIKRRAMELSFALVNGNNIRGMMKELLYFLDSCEPEFK	397
+NM_007347                    -PTLALQHQM-TIIECLDHPDPIIKRETLELLYRITNAQNITVIVQKMLEYLHQSKEEYV	456
+sp|Q80V94.3|AP4E1_MOUSE      -PSLALQHQI-TIIECLDHPDPIIKRETLELLYRITNAQNVVVIVQKMLEYLHQSKEEHI	424
+                                 . :*:  .*:.   . *  ::: :::* : : :  *   :::::* :*. .. .  
+
+sp|P91926.1|AP2A_DROME       -EEMVLKVAILAEKYATDYTWYVDVILNLIRIAGDYVSEEVWYRVIQIVINREEV-----	475
+sp|Q5R5M2.1|AP1G1_PONAB      -ADCASGIFLAAEKYAPSKRWHIDTIMRVLTTAGSYVRDDAVPNLIQLITNSVEM-----	451
+NM_007347                    IVNLVGKIAELAEKYAPDNAWFIQTMNAVFSVGGDVMHPDIPNNFLRLLAEGFDDETEDQ	516
+sp|Q80V94.3|AP4E1_MOUSE      IISLVGRIAELAEKYAPDNVWFIQTMNAVFSVGGDVMHPDILSNFLRLLAEGFDDETEDQ	484
+                               . .  :   ***** .  *.::.:  ::  .*. :  :   ..:::: :  :      
+
+sp|P91926.1|AP2A_DROME       --QGYAAKTVFE--ALQAPACHENMVKVGGYILGEFGNLIAGDSRSA--PL---------	520
+sp|Q5R5M2.1|AP1G1_PONAB      --HAYTVQRLYK--AILGDYSQQPLVQVAAWCIGEYGDLLVSGQCEEEGPIQVTEDEVLD	507
+NM_007347                    QLRLYAVQSYLTLLDMENVFYPQRFLQVMSWVLGEYSYLLDKETPE----------EVIA	566
+sp|Q80V94.3|AP4E1_MOUSE      QLRLYAVQSYLTLLDMENTFYPQRFLQVMSWVLGEYSYLLDKESPE----------EVIT	534
+                               : *:.:       :      : :::* .: :**:. *:     .              
+
+sp|P91926.1|AP2A_DROME       VQFKLLHSKYHLCSPMTRALLLSTYIKFINLFPEIRTNIQDVFRQHSNLRSADAELQQRA	580
+sp|Q5R5M2.1|AP1G1_PONAB      ILESVLIS--NMSTSVTRGYALTAIMKLSTRFTCTVNRIKKVV--SIYGSSIDVELQQRA	563
+NM_007347                    KLYKLLMN--DSVSSETKAWLIAAVTKLTSQAH-SSNTVERLI--HEFTISLDTCMRQHA	621
+sp|Q80V94.3|AP4E1_MOUSE      RLYKLLMS--DSISSETKAWLFAAVTKLTPQAH-SSPLVEKLI--QEFTVSLNTCLRQHA	589
+                                .:* .  .  :  *:.  :::  *:          :: :.       * :. ::*:*
+
+sp|P91926.1|AP2A_DROME       SEYLQLSIVASTDVLATVLE-EMPSFP----ERESSILAVLKKKKPGRVPENEIRESKSP	635
+sp|Q5R5M2.1|AP1G1_PONAB      VEYNALFKK--YDHMRSALLERMPVMEKVTTNGPTEIVQ----------TN---GE-TEP	607
+NM_007347                    FELKHLHEN--VELMKSLLPVDRSCE-DLVVDASLSFLD-------GFVAE---GLSQGA	668
+sp|Q80V94.3|AP4E1_MOUSE      FELKHLHEN--TELMKSLLQGAQNCE-DIVADASLSFLD-------GFVAE---GLSQGA	636
+                              *   *      : : : *            :   .::            :         
+
+sp|P91926.1|AP2A_DROME       APLTSAA---------QNNALVNNSHSKLNNSNANTDLLGLSTPPSNNIGSGSN------	680
+sp|Q5R5M2.1|AP1G1_PONAB      APLETKPPPSGPQPTSQANDLLDL-----------------------LGGNDITPVIPTA	644
+NM_007347                    APY--KPPHQRQEEKLSQEKVLNFEPYGL--SFSSSGFTGRQSPAGISLGSDVSGNSAET	724
+sp|Q80V94.3|AP4E1_MOUSE      APY--KPHHQRQEEQLSQEKVLNFEPYGL--SFSSSGFTGRQSPAGISLGSDISGNSAET	692
+                             **              . : :::                          *.. .      
+
+sp|P91926.1|AP2A_DROME       -------SNSTLIDVLGDMYGSNSNNNSSAVYNTKKFLFKNNGVLFENEMLQIGVKSEFR	733
+sp|Q5R5M2.1|AP1G1_PONAB      PTSKPSSAGGELLDLLGDIN-----------------LTGA---------------P---	669
+NM_007347                    GL-----KETNSLKLEGIKK-----------------LWGKEGYLPKKES-KTGDES---	758
+sp|Q80V94.3|AP4E1_MOUSE      GL-----KETSSLKMEGIKK-----------------LWGKEGYLPKKES-GTGDKP---	726
+                                         :.: *                    *                      
+
+sp|P91926.1|AP2A_DROME       QNLGRLGLFYGNKTQVPLTNFNPVLQWSAEDALKLNV------------QMKVVEPTLEA	781
+sp|Q5R5M2.1|AP1G1_PONAB      -------------AAAPAPASVP---QI-SQP-----------------------PFLLD	689
+NM_007347                    -------------GALPVPQES-IMENV-DQAITKKDQSQVLTQSKEEKEKQLLASSLFV	803
+sp|Q80V94.3|AP4E1_MOUSE      -------------EASHVPAEGATVENV-DQATTRKDQAQGHIPSTEEKEKQLLASSLFV	772
+                                                          .:                          *  
+
+sp|P91926.1|AP2A_DROME       GAQIQQLLTAECIEDYADAPTIEISFRYNGTQQKFS------------------------	817
+sp|Q5R5M2.1|AP1G1_PONAB      G-----LSSQPLFNDIAAGIPSITAYSKNGLKIEFTFERSNTNPSVTVITIQA-------	737
+NM_007347                    G-----LGSESTINLLGKADTVSHKFRR---KSKVKEAKSGETTSTHNMTCSSFSSLSNV	855
+sp|Q80V94.3|AP4E1_MOUSE      G-----LGPENTVDLLGKADVVSHKFRR---KSKLKVAQSDKTPSAPTAPCSALSLGSDV	824
+                             *     *     .:  . .      :     : :..                        
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	817
+sp|Q5R5M2.1|AP1G1_PONAB      -----------SNSTELDMTDFVFQAAVPKTFQL------QLLSPSSSIVPAFNTGTITQ	780
+NM_007347                    AYEDDYYSNTLHDTGDKELKKFSLTSELLDSESLTELPLVEKFSYCSLSTPSLFA---NN	912
+sp|Q80V94.3|AP4E1_MOUSE      AGGDEDGL-SAVDRGDG-----ELSSELFRSESLSGPPSAEKLESVSLPVPSLFA---DN	875
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	817
+sp|Q5R5M2.1|AP1G1_PONAB      VIKVLNPQKQQLRMR------------IKLTYNHKGSA----------------------	806
+NM_007347                    NMEIFHPPQSTAASVAKESSLASSFLEETTEYIHSNAMEVCNNETISVSSYKIWKDDCLL	972
+sp|Q80V94.3|AP4E1_MOUSE      NMEVFNPPSSSATSTV---------KEETPECRHSGLVEICSNEAVSVSSYKVWRDDCLL	926
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	817
+sp|Q5R5M2.1|AP1G1_PONAB      -----------MQDLAEVNNFPPQSWQ---------------------------------	822
+NM_007347                    MVWSVTNKSGLELKSADLEIFPAENFKVTEQPGCCLPVMEAESTKSFQYSVQIEKPFTEG	1032
+sp|Q80V94.3|AP4E1_MOUSE      VIWAVTSKTDSEFTDAQLEIFPVENFKIIEQPECSSPVIETERTKSFQYSVQMESPCIEG	986
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       -------------------IKLPLSVNKFFEPTEMNAESFFARWKNLSGEQQRSQKVFKA	858
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    NLTGFISYHMMDTHSAQLEFSVNLSLLDFIRPLKISSDDFGKLWLSFANDVKQNVKMSES	1092
+sp|Q80V94.3|AP4E1_MOUSE      TLSGFIKYQMMDTHSVQLEFSMNLPLLDFIRPLKISTEDFGKLWLSFANDVKQTIKISEP	1046
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       AQPLDLPGARNKLM-GFGMQLLDQVDPNPDNMVCAGIIHTQSQQVGCLMRLEP--NKQAQ	915
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    QA--ALPSALKTLQQKLRLHIIEII-GNEGLLACQL-L----PSIPCLLHCRVHADVLAL	1144
+sp|Q80V94.3|AP4E1_MOUSE      GV--ALTSVLTELQQNLRLRVIDVI-GNEGLLACKL-L----PSTPCVLHCRVHADAVAL	1098
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       MFRLTV-----------RASKETVTREICDLLTDQ--F----------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    WFRSSCSTLPDYLLYQCQKVMEGS*QKPC*ILLHQDQWFT*INLFTKVKRTHGTSNENGD	1201
+sp|Q80V94.3|AP4E1_MOUSE      WFRSSSSVLSDYLSCHCQKVMQTS------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    YYKCGLYVFFVIPGQERSPKLYP*PLTQDCTVCLGPSKSDLS*CYKLLMIYISLSV*RD*	1257
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    KYLFCYK*FYSTFTLVLANL**SQVSVFCIKWKGDMKLIISNLIHIWLWNVVYGFW*GSQ	1313
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    YFRLCFA*ISVELSWHSTH*QL*EIHEHAGY*GDPICDLFFIIDNCYT*FQIVWL*NLSV	1367
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    FHLELF*NSK*ITLFLF*KLRAILYRNKTHKSTQ*QSKQIQK*LFSYDKYFSWLLLRSFW	1422
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    QMKICD*SINGKTIFSWPLNPLVLNGYS*SRD*V*HTGSSVKYIIFML*LCLCGLCQNYY	1477
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    Q*KRLSLYMNDGPKP*GCTLTEIVFYKILWCCGKYLLFHLF*HFTMETIQVIQF*VIAVN	1533
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    TLVNWYC*SPRSGILILGYLINHG**RS*GDSPDLIDFISHLCRVFLPKNKSSIFFLN*F	1588
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    LSYSLKNI*HLNFILLKTYSEALLQES*VTGISCIIGSSF*IDQIHPQALSSVMMK*VC*	1643
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    LQGCGGHW*LALSAPSLFLPLSAACLAPYLILL*L*QRGSAFSLCKGMQHVTKEVLQFFV	1700
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    SLLPYVCLVTEARSSVKQ*V*DAESTWTATREICCLVTGCIHEW*LQLS*ETCLAYRAV*	1755
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    WVGDM*W*I*GWEHDFGSAQRNMVSLLFFLTH*IKSSVTGFHWNVY*KVYTFYIFMILKT	1810
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    NNNRKTDFKELQSSIYSV*TH*IF*VVNQVSTNLYFCIAGDVTVK*GVFFFETEFHPCCP	1866
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    G*SVMVQSPLTATSASQVQAILLPQPP**LGLQACTTTPG*FFYIFSRDKVSPCWSGWSR	1922
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    TPDLR*SARLSLPKCWDYRREPLRPAKLFLWVDSFSLPNSHNLVSEGTTSGVRAMEEVLS	1981
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    FVSFVPGIFAENGDGSKCESGGI*GKTEKP*E*TEEEGYQNSPCGGRQIRAQGLKVGLSK	2038
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    GPARETADGS*AVTNC*CAKYTKHSMCPVEEHYFKQCSTIIYQNNCGKSVVFYFFLLCQQ	2096
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ------------------------------------------------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ------------------------------------------------------------	822
+NM_007347                    YFKILICLSYIFMDKCSICLMIVSH*ECTEPIHMSLRCFAVLKF*ERKIQVNNYLIGIYY	2154
+sp|Q80V94.3|AP4E1_MOUSE      ------------------------------------------------------------	1122
+                                                                                         
+
+sp|P91926.1|AP2A_DROME       ----------------------	940
+sp|Q5R5M2.1|AP1G1_PONAB      ----------------------	822
+NM_007347                    FILELNSVI*KSSVM**IQSDL	2173
+sp|Q80V94.3|AP4E1_MOUSE      ----------------------	1122
+                                                   
