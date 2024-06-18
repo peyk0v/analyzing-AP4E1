@@ -2,14 +2,13 @@ use strict;
 use warnings;
 use Bio::SeqIO;
 
-# Nombre del archivo GenBank
-my $file = 'AP4E1.gb';
+my ($file) = @ARGV;
+die "Uso: $0 <genbank_file> \n" unless @ARGV == 1;
 
 my $protein_file = 'mRNA_protein_encoding.fasta';
 
 my $aminoacid_file = 'protein_aminoacid.fasta';
 
-# Crear un objeto SeqIO para leer el archivo GenBank
 my $seqio = Bio::SeqIO->new(-file => $file, -format => 'genbank');
 
 # Iterar sobre las características (features) en busca de CDS
@@ -18,19 +17,13 @@ while (my $seq = $seqio->next_seq) {
         if ($feat_object->primary_tag eq 'CDS') {
             my $cds_seq = $feat_object->spliced_seq->seq; # Obtener la secuencia de nucleótidos del CDS
             my $rna_seq = transcribe($cds_seq); # Transcribir la secuencia de nucleótidos a ARN
-            createFile("Encoding Protein of AP4E1", $rna_seq, $protein_file);
+            my $title_protein = "AP4E1_CDS";
+            create_fasta_file($protein_file, $title_protein, $rna_seq);
             my $protein_seq = translate($rna_seq); # Traducir la secuencia de ARN a aminoácidos
-            createFile("Aminoacid Translation of AP4E1's mRNA", $protein_seq, $aminoacid_file);
-            print "CDS Translation: $protein_seq\n";
+            my $title_aminoacid = "AP4E1_mRNA_aminoacid_translation";
+            create_fasta_file($aminoacid_file, $title_aminoacid, $protein_seq);
         }
     }
-}
-
-sub createFile {
-    my ($title, $seq, $file) = @_;
-    open(my $fh, '>', $file) or die "Cannot open file $file: $!";
-    print $fh ">$title\n$seq\n";
-    close $fh or die "Cannot close file $file: $!";
 }
 
 # Subrutina para transcribir una secuencia de ADN a ARN
@@ -77,4 +70,12 @@ sub translate {
         $translation .= $aa;
     }
     return $translation;
+}
+
+sub create_fasta_file {
+    my ($file, $title, $seq) = @_;
+    my $seq_out = Bio::SeqIO->new(-file => ">$file", -format => 'fasta');
+    my $bio_seq = Bio::Seq->new(-display_id => $title, -seq => $seq);
+    $seq_out->write_seq($bio_seq);
+    print "Archivo '$file' creado con éxito.\n";
 }

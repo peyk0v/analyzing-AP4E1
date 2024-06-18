@@ -2,8 +2,9 @@ use strict;
 use warnings;
 use Bio::SeqIO;
 
-# Nombre del archivo GenBank
-my $file = 'AP4E1.gb';
+my ($file) = @ARGV;
+die "Uso: $0 <genbank_file> \n" unless @ARGV == 1;
+
 my $output_prefix = 'output_';
 
 # Crear un objeto SeqIO para leer el archivo GenBank
@@ -23,13 +24,12 @@ while (my $seq = $seqio->next_seq) {
                 my $protein_seq1 = translate_frame($cds_seq, $frame);
                 my $protein_seq2 = translate_frame(reverse_complement($cds_seq), $frame);
 
-                my $title1 = ">Aminoacid Translation of ${seq_id} frame ${frame} (direct)";
-                my $title2 = ">Aminoacid Translation of ${seq_id} frame ${frame} (reverse)";
+                my $title1 = ">Aminoacid_Translation_of_${seq_id}_CDS${cds_count}_frame${frame}_1_direct";
+                my $title2 = ">Aminoacid_Translation_of_${seq_id}_CDS${cds_count}_frame${frame}_1_reverse";
 
                 create_fasta_file("${output_prefix}${seq_id}_CDS${cds_count}_frame${frame}_1.fasta", $title1, $protein_seq1);
                 create_fasta_file("${output_prefix}${seq_id}_CDS${cds_count}_frame${frame}_2.fasta", $title2, $protein_seq2);
             }
-            
             $cds_count++;
         }
     }
@@ -82,9 +82,8 @@ sub reverse_complement {
 
 sub create_fasta_file {
     my ($file, $title, $seq) = @_;
-    open(my $fh, '>', $file) or die "No se pudo abrir el archivo '$file' $!";
-    print $fh "$title\n";
-    print $fh "$seq\n";
-    close $fh;
+    my $seq_out = Bio::SeqIO->new(-file => ">$file", -format => 'fasta');
+    my $bio_seq = Bio::Seq->new(-display_id => $title, -seq => $seq);
+    $seq_out->write_seq($bio_seq);
     print "Archivo '$file' creado con éxito.\n";
 }
