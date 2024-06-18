@@ -14,7 +14,7 @@ print "Archivo de BLAST: $blast_file\n";
 
 my $searchio = Bio::SearchIO->new(-format => 'blast', -file => $blast_file);
 
-my $sp = Bio::DB::SwissProt->new();
+my $sp = Bio::DB::SwissProt->new(); # La razón por la que 'funciona' es porque use SwissProt y no GenBank
 
 my $output_file = 'hits.fasta';
 my $seq_out = Bio::SeqIO->new(-file => ">$output_file", -format => 'fasta');
