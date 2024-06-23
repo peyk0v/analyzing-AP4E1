@@ -1,10 +1,11 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Sat 22 Jun 2024 19:31:50
+# Rundate: Sun 23 Jun 2024 01:18:26
 # Commandline: patmatmotifs
-#    -sequence aminoacid.fasta
-#    -outfile dominios.txt
 #    -full
+#    -outfile dominios.txt
+#    -sequence aminoacid.fasta
+#    -auto
 # Report_format: dbmotif
 # Report_file: dominios.txt
 ########################################
@@ -42,4 +43,50 @@ QVVGGKLPVEFNYHSVPA
 
 
 #---------------------------------------
+#
+# Motif: TYR_PHOSPHO_SITE_2
+# Count: 2
+# 
+# *****************************************
+# * Tyrosine kinase phosphorylation sites *
+# *****************************************
+# 
+# Substrates of tyrosine protein kinases are generally characterized by a lysine
+# or an arginine seven residues  to  the N-terminal side  of  the phosphorylated
+# tyrosine.  An acidic residue (Asp  or Glu) is often  found at either  three or
+# four residues to  the N-terminal side  of  the tyrosine  [1,2,3].  There are a
+# number of exceptions to  this rule such as the  tyrosine phosphorylation sites
+# of enolase and lipocortin II.
+# 
+# We developed  two  signature  patterns for the tyrosine kinase phosphorylation
+# sites. The  first  pattern  is  directed  against  the  sites where the acidic
+# residue (Asp  or Glu) is found at three residues to the N-terminal side of the
+# tyrosine, and the second one against the site where it is at four.
+# 
+# -Consensus pattern: [RK]-x(2)-[DE]-x(3)-Y
+#                     [Y is the phosphorylation site]
+# 
+# -Consensus pattern: [RK]-x(3)-[DE]-x(2)-Y
+#                     [Y is the phosphorylation site]
+# 
+# -Last update: March 2019 / Text and pattern revised; pattern added.
+# 
+# [ 1] Patschinsky T., Hunter T., Esch F.S., Cooper J.A., Sefton B.M.
+#      "Analysis of the sequence of amino acids surrounding sites of tyrosine
+#      phosphorylation."
+#      Proc. Natl. Acad. Sci. U.S.A. 79:973-977(1982).
+#      PubMed=6280176
+# [ 2] Hunter T.
+#      "Synthetic peptide substrates for a tyrosine protein kinase."
+#      J. Biol. Chem. 257:4843-4848(1982).
+#      PubMed=6279650
+# [ 3] Cooper J.A., Esch F.S., Taylor S.S., Hunter T.
+#      "Phosphorylation sites in enolase and lactate dehydrogenase utilized
+#      by tyrosine protein kinases in vivo and in vitro."
+#      J. Biol. Chem. 259:7835-7841(1984).
+#      PubMed=6330085
+# 
+# ***************
+# 
+#
 #---------------------------------------
